@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 FAQ Extension</h2>
+				<h1>Magento 2 FAQ Extension</h1>
 				<p><strong><a href="https://www.mageants.com/faq-extension-for-magento-2.html">Magento 2 FAQ Extension</a></strong> allows the admin to set some questions related to the specific product or categories. The queries that are mostly in the customer’s mind before buying any product or related to the product mentioned in each FAQ section that solves most of the customer questions without giving any customer support.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Time-saving process.</li>
 						<li>No need to give customer support anytime.</li>
